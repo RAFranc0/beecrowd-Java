@@ -2,6 +2,12 @@ package com.rafranco.consumo;
 
 import com.rafranco.utils.ScannerUtils;
 
+/*
+* Enunciado:
+* Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km)
+* e o total de combustível gasto (em litros).
+* */
+
 public class Consumo {
     public static void main(String[] args) {
         int distanciaPercorridaEmKm;
